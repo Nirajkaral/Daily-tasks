@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main(){
 
 	var name string = "Niraj"
 	var age int = 22
