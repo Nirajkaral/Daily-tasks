@@ -12,3 +12,11 @@ Tasks Completed:
 - Practiced variables and basic data types in Python.
 - Practiced variable declaration in Golang.
 - Printed values and understood different data types.
+
+
+## Day 3 – Conditional Statements
+
+### Tasks Completed
+- Learned conditional statements (if–else).
+- Implemented a program to check whether a number is even or odd.
+- Practiced conditional logic in Python and Golang.
