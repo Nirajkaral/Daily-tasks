@@ -1,6 +1,6 @@
-## Day 1 – Python & Golang Basics
+# Day 1 – Python & Golang Basics
 
-### Tasks Completed
+## Tasks Completed
 - Installed Python and Golang development environments.
 - Created and ran a **Hello World** program in Python.
 - Created and ran a **Hello World** program in Golang.
