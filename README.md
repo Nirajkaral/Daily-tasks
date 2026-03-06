@@ -20,3 +20,12 @@ Tasks Completed:
 - Learned conditional statements (if–else).
 - Implemented a program to check whether a number is even or odd.
 - Practiced conditional logic in Python and Golang.
+
+
+## Day 4 – Loops and Data Structures
+
+Tasks Completed
+- Practiced loops in Python and Go.
+- Implemented factorial and Fibonacci programs.
+- Learned Python lists, dictionaries, and functions.
+- Learned Go arrays, slices, and functions.
