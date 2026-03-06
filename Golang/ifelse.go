@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func ifelse() {
     var number int
 
     fmt.Print("Enter a number: ")

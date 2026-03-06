@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func array_slice() {
 
 	// Array
 	numbers := [4]int{10, 20, 30, 40}

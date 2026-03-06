@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func fibonacci() {
 
 	a := 0
 	b := 1

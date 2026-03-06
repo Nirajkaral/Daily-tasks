@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func vari(){
 
 	var name string = "Niraj"
 	var age int = 22

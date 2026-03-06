@@ -6,7 +6,7 @@ func add(a int, b int) int {
 	return a + b
 }
 
-func main() {
+func function() {
 
 	result := add(5, 7)
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func factorial() {
 
 	var num int
 	fmt.Print("Enter number: ")
