@@ -16,7 +16,7 @@ func api(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(msg)
 }
 
-func main() {
+func api() {
 
 	http.HandleFunc("/api", api)
 

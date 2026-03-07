@@ -9,7 +9,7 @@ func home(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintln(w, "Welcome to my Go server")
 }
 
-func main() {
+func server() {
 
 	http.HandleFunc("/", home)
 
