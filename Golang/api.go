@@ -1,0 +1,24 @@
+package main
+
+import (
+	"encoding/json"
+	"net/http"
+)
+
+type Message struct {
+	Text string `json:"text"`
+}
+
+func api(w http.ResponseWriter, r *http.Request) {
+
+	msg := Message{Text: "Hello from API"}
+
+	json.NewEncoder(w).Encode(msg)
+}
+
+func main() {
+
+	http.HandleFunc("/api", api)
+
+	http.ListenAndServe(":8080", nil)
+}
