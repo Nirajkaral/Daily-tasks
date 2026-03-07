@@ -8,5 +8,7 @@ func main() {
 	hello()
 	ifelse()
 	vari()
-	
+	errorhand()
+	structs()
+	struct_practice()	
 }
