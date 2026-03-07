@@ -11,6 +11,10 @@ func main() {
 	errorhand()
 	structs()
 	struct_practice()
-	//learnjson()
 	server()
+	
+}
+
+func learnjson() {
+	
 }
