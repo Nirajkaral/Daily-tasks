@@ -29,3 +29,13 @@ Tasks Completed
 - Implemented factorial and Fibonacci programs.
 - Learned Python lists, dictionaries, and functions.
 - Learned Go arrays, slices, and functions.
+
+## Day 5 – CLI Tools, Modules, Structs and Error Handling
+
+Tasks Completed
+- Built Python CLI TODO tool
+- Learned Python modules and imports
+- Practiced Python error handling
+- Learned Go structs and struct practice
+- Implemented error handling in Go
+- Practiced Git branching and repository synchronization
