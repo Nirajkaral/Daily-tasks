@@ -10,7 +10,8 @@ type Student struct {
 	Age  int
 }
 
-func json() {
+// Renamed from json() to main()
+func mainJSON() {
 
 	jsonData := `{"Name":"Niraj","Age":22}`
 
