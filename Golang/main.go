@@ -13,9 +13,4 @@ func main() {
 	struct_practice()
 	server()
 	
-	
-}
-
-func learnjson() {
-	
 }

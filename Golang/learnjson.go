@@ -11,7 +11,7 @@ type Student struct {
 }
 
 // Renamed from json() to main()
-func mainJSON() {
+func learnjson() {
 
 	jsonData := `{"Name":"Niraj","Age":22}`
 

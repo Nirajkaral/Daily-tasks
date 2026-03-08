@@ -39,3 +39,12 @@ Tasks Completed
 - Learned Go structs and struct practice
 - Implemented error handling in Go
 - Practiced Git branching and repository synchronization
+
+## Day 6 – Go Functions, Variables, Structs and JSON Basics
+
+Tasks Completed
+- Practiced Go programming concepts including fun & var.
+- Implemented functions such as fibonacci() and factorial()
+- Learned basic error handling in Go programs
+- Practiced working with Go structs and struct examples
+- Explored JSON handling and basic server concepts in Go
