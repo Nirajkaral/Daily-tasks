@@ -12,5 +12,12 @@ func main() {
 	structs()
 	struct_practice()
 	server()
+	abs()
+	poly()
+	compo()
+	method()
+	strt()
+	learnjson()
+	encp()
 	
 }

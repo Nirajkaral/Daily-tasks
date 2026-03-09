@@ -16,7 +16,7 @@ type Dog struct {
 	Animal
 }
 
-func main() {
+func compo() {
 
 	d := Dog{
 		Animal{name: "Tommy"},

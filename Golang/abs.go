@@ -19,7 +19,7 @@ func (b Bike) Start() {
 	fmt.Println("Bike started")
 }
 
-func main() {
+func abs() {
 
 	var v Vehicle
 

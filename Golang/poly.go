@@ -29,7 +29,7 @@ func (c Circle) Area() float64 {
 	return math.Pi * c.radius * c.radius
 }
 
-func main() {
+func poly() {
 
 	r := Rectangle{width: 10, height: 5}
 	c := Circle{radius: 7}

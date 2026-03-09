@@ -11,9 +11,9 @@ func (s Student) greet() {
 	fmt.Println("Hello my name is", s.name)
 }
 
-func main() {
+func method() {
 
-	s1 := Student{name: "Neeraj"}
+	s1 := Student{name: "Niraj"}
 
 	s1.greet()
 }

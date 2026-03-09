@@ -17,9 +17,9 @@ func (b BankAccount) ShowBalance() {
 	fmt.Println("Balance:", b.balance)
 }
 
-func main() {
+func encp() {
 
-	acc := BankAccount{name: "Neeraj", balance: 1000}
+	acc := BankAccount{name: "Niraj", balance: 1000}
 
 	acc.Deposit(500)
 

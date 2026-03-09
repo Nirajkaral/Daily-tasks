@@ -8,7 +8,7 @@ type Person struct {
 	age  int
 }
 
-func main() {
+func strt() {
 
 	// Object creation
 	p1 := Person{

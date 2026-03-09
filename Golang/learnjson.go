@@ -5,17 +5,16 @@ import (
 	"fmt"
 )
 
-type Student struct {
+type Studentfmt struct {
 	Name string
 	Age  int
 }
 
-// Renamed from json() to main()
 func learnjson() {
 
 	jsonData := `{"Name":"Niraj","Age":22}`
 
-	var s Student
+	var s Studentfmt
 
 	json.Unmarshal([]byte(jsonData), &s)
 
