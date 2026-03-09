@@ -1,0 +1,31 @@
+package main
+
+import "fmt"
+
+// Interface
+type Vehicle interface {
+	Start()
+}
+
+type Car struct{}
+
+type Bike struct{}
+
+func (c Car) Start() {
+	fmt.Println("Car started")
+}
+
+func (b Bike) Start() {
+	fmt.Println("Bike started")
+}
+
+func main() {
+
+	var v Vehicle
+
+	v = Car{}
+	v.Start()
+
+	v = Bike{}
+	v.Start()
+}
