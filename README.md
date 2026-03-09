@@ -48,3 +48,14 @@ Tasks Completed
 - Learned basic error handling in Go programs
 - Practiced working with Go structs and struct examples
 - Explored JSON handling and basic server concepts in Go
+
+## Day 8 - OOP Concepts – Python and Golang
+
+Tasks Completed
+-Studied Object-Oriented Programming (OOP) concepts using  Python and Golang.  
+- Learned the core concepts of Class and Object with simple examples.  
+- Practiced Encapsulation to protect data inside classes and structs.  
+- Explored Inheritance in Python and struct embedding in Golang.  
+- Implemented Polymorphism using method overriding in Python and interfaces in Go.  
+- Understood Abstraction using abstract classes in Python and interfaces in Go.
+- Compared how OOP concepts are implemented differently in Python vs Golang.
