@@ -62,7 +62,9 @@ Tasks Completed
 
 ## Day 9 - OOPs concepts - Python and Golang
 
-Studied oops concepts using Python and Golang
-- Learned and implemented Abstraction to hide complex implementation details.
-- Practiced Encapsulation to protect and manage data within classes or structures.
-- Implemented Polymorphism to allow one interface or method to perform different behaviors.
+Focused on strengthening the understanding of Object-Oriented Programming (OOP).
+
+- Implemented and explored OOP concepts using Python and Golang.
+- Practiced how core OOP principles work in both languages through examples.
+- Compared how Python (class-based OOP) and Golang (struct and interface-based design) implement these concepts differently.
+- Shifted learning from theoretical knowledge to practical implementation.
