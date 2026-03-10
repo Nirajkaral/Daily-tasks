@@ -59,3 +59,10 @@ Tasks Completed
 - Implemented Polymorphism using method overriding in Python and interfaces in Go.  
 - Understood Abstraction using abstract classes in Python and interfaces in Go.
 - Compared how OOP concepts are implemented differently in Python vs Golang.
+
+## Day 9 - OOPs concepts - Python and Golang
+
+Studied oops concepts using Python and Golang
+- Learned and implemented Abstraction to hide complex implementation details.
+- Practiced Encapsulation to protect and manage data within classes or structures.
+- Implemented Polymorphism to allow one interface or method to perform different behaviors.
