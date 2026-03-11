@@ -1,13 +1,17 @@
-class Bird:
-    def fly(self):
-        print("Bird flies")
+class Dog:
+    def speak(self):
+        return "Woof!"
 
-class Penguin(Bird):
-    def fly(self):
-        print("Penguin cannot fly")
+class Cat:
+    def speak(self):
+        return "Meow!"
 
-b = Bird()
-p = Penguin()
+class Duck:
+    def speak(self):
+        return "Quack!"
 
-b.fly()
-p.fly()
+# All different objects — same method name speak()
+animals = [Dog(), Cat(), Duck()]
+
+for animal in animals:
+    print(animal.speak())
