@@ -70,7 +70,8 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 - Shifted learning from theoretical knowledge to practical implementation.
 
 ## Day 10 
-### I Learned:
+### I Learned Use case :
+- **E-Commerce** in oops.
 - **Python OOP:** 4 pillars — Encapsulation, Inheritance, Polymorphism, Abstraction
 - **Python:** Classes vs Objects, Constructors, Method Overriding
 - **Real-world examples:** BankAccount, Employee, E-commerce, Library, Game Systems
