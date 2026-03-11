@@ -69,3 +69,10 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 - Compared how Python (class-based OOP) and Golang (struct and interface-based design) implement these concepts differently.
 - Shifted learning from theoretical knowledge to practical implementation.
 
+## Day 10 
+### I Learned OOPs and Github commands:
+- **Python OOP:** 4 pillars — Encapsulation, Inheritance, Polymorphism, Abstraction
+- **Python:** Classes vs Objects, Constructors, Method Overriding
+- **Real-world examples:** BankAccount, Employee, E-commerce, Library, Game Systems
+- **Golang:** Structs vs Classes, Composition, Interfaces, Encapsulation
+- **Linux:** Navigation, File Management, grep, chmod, tar, find, Piping & Redirection
