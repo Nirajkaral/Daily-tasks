@@ -8,4 +8,5 @@ student = {
 
 json_data = json.dumps(student)
 
+
 print(json_data)
