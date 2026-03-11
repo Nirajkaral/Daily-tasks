@@ -7,6 +7,7 @@ type Vehicle interface {
 	Start()
 }
 
+
 type Car struct{}
 
 type Bike struct{}
