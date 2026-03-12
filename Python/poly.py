@@ -1,17 +1,21 @@
-class Dog:
+class Dog(Animal):
     def speak(self):
-        return "Woof!"
+        return "Woof! "
 
-class Cat:
+class Cat(Animal):
     def speak(self):
-        return "Meow!"
+        return "Meow! "
 
-class Duck:
+class Cow(Animal):
     def speak(self):
-        return "Quack!"
+        return "Moo! "
 
-# All different objects — same method name speak()
-animals = [Dog(), Cat(), Duck()]
+class Snake(Animal):
+    pass                  
+
+
+animals = [Dog("Buddy"), Cat("Whiskers"), Cow("Bessie"), Snake("Sly")]
 
 for animal in animals:
-    print(animal.speak())
+    print(f"{animal.name} says: {animal.speak()}")
+

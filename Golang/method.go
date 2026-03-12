@@ -6,7 +6,7 @@ type Student struct {
 	name string
 }
 
-// Method
+
 func (s Student) greet() {
 	fmt.Println("Hello my name is", s.name)
 }

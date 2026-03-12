@@ -2,16 +2,16 @@ package main
 
 import "fmt"
 
-// Struct (like a class)
-type Person struct {
+
+type person struct {
 	name string
 	age  int
 }
 
 func strt() {
 
-	// Object creation
-	p1 := Person{
+	
+	p1 := person{
 		name: "Niraj",
 		age:  22,
 	}

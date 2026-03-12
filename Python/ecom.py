@@ -6,14 +6,14 @@ class Product:
 
     def buy(self, qty):
         if qty > self.__stock:
-            print(f"❌ Only {self.__stock} left in stock!")
+            print(f" Only {self.__stock} left in stock!")
         else:
             self.__stock -= qty
-            print(f"✅ Bought {qty} x {self.name}. Remaining stock: {self.__stock}")
+            print(f" Bought {qty} x {self.name}. Remaining stock: {self.__stock}")
 
-class DigitalProduct(Product):       # Inherits Product
-    def buy(self, qty):              # Override — digital = unlimited stock
-        print(f"✅ Downloaded {self.name} — no stock limit!")
+class DigitalProduct(Product):       
+    def buy(self, qty):              
+        print(f" Downloaded {self.name} — no stock limit!")
 
 p1 = Product("Laptop", 80000, 5)
 p2 = DigitalProduct("eBook", 299, 999)
