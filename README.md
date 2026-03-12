@@ -6,7 +6,7 @@ Tasks Completed:
 - Created and ran a **Hello World** program in Golang.
 - Initialized a Git repository and pushed the code to GitHub.
 
-# Day 2 – Variables and Data Types
+# – Variables and Data Types
 
 ## Tasks Completed
 - Practiced variables and basic data types in Python.
@@ -14,7 +14,7 @@ Tasks Completed:
 - Printed values and understood different data types.
 
 
-## Day 3 – Conditional Statements
+##  – Conditional Statements
 
 ### Tasks Completed
 - Learned conditional statements (if–else).
@@ -22,7 +22,7 @@ Tasks Completed:
 - Practiced conditional logic in Python and Golang.
 
 
-## Day 4 – Loops and Data Structures
+## – Loops and Data Structures
 
 Tasks Completed
 - Practiced loops in Python and Go.
@@ -30,7 +30,7 @@ Tasks Completed
 - Learned Python lists, dictionaries, and functions.
 - Learned Go arrays, slices, and functions.
 
-## Day 5 – CLI Tools, Modules, Structs and Error Handling
+## – CLI Tools, Modules, Structs and Error Handling
 
 Tasks Completed
 - Built Python CLI TODO tool
@@ -40,7 +40,7 @@ Tasks Completed
 - Implemented error handling in Go
 - Practiced Git branching and repository synchronization
 
-## Day 6 – Go Functions, Variables, Structs and JSON Basics
+## – Go Functions, Variables, Structs and JSON Basics
 
 Tasks Completed
 - Practiced Go programming concepts including fun & var.
@@ -77,3 +77,23 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 - **Real-world examples:** BankAccount, Employee, E-commerce, Library, Game Systems
 - **Golang:** Structs vs Classes, Composition, Interfaces, Encapsulation
 - **Linux:** Navigation, File Management, grep, chmod, tar, find, Piping & Redirection
+
+
+## Day 11
+
+###  Python & Golang
+- Covered all 4 OOP pillars — **Encapsulation**, **Inheritance**, **Polymorphism**
+and **Abstraction** in both Python and Golang. 
+- Built real-world projects like **BankAccount**, **Employee** and **E-commerce**.
+- In Go, learned how **structs**, **interfaces** and embedding replace traditional OOP concepts, with **pointer** and **value receivers** for data manipulation.
+
+### Linux & Git
+- Practiced essential Linux commands for navigation, file management,
+process monitoring and system health checks.
+- Learned to use both **nano** and **vim editors** and manage environment variables. 
+- On the Git side, covered the full workflow from add to push, and
+practiced resolving merge conflicts step by step.
+
+### Bash Scripting
+- Started Bash scripting from scratch and written first scripts **hello.sh** and **myinfo.sh** successfully.
+
