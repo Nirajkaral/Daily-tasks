@@ -1,36 +1,36 @@
 ## Day 1 – Python & Golang Basics
 
 Tasks Completed:
-- Installed Python and Golang development environments.
-- Created and ran a **Hello World** program in Python.
-- Created and ran a **Hello World** program in Golang.
-- Initialized a Git repository and pushed the code to GitHub.
+- Installed `Python` and `Golang` development environments.
+- Created and ran a ``Hello World`` program in Python.
+- Created and ran a Hello World program in Golang.
+- Initialized a ``Git repository`` and pushed the code to GitHub.
 
-# – Variables and Data Types
+# Day 2 – Variables and Data Types
 
 ## Tasks Completed
-- Practiced variables and basic data types in Python.
+- Practiced ``variables`` and basic ``data types`` in Python.
 - Practiced variable declaration in Golang.
 - Printed values and understood different data types.
 
 
-##  – Conditional Statements
+## Day 3 – Conditional Statements
 
 ### Tasks Completed
-- Learned conditional statements (if–else).
-- Implemented a program to check whether a number is even or odd.
-- Practiced conditional logic in Python and Golang.
+- Learned ``conditional statements`` (if–else).
+- Implemented a program to check whether a number is ``even or odd``.
+- Practiced ``conditional logic`` in Python and Golang.
 
 
-## – Loops and Data Structures
+## Day 4 – Loops and Data Structures
 
 Tasks Completed
-- Practiced loops in Python and Go.
-- Implemented factorial and Fibonacci programs.
-- Learned Python lists, dictionaries, and functions.
-- Learned Go arrays, slices, and functions.
+- Practiced ``loops`` in Python and Go.
+- Implemented ``factorial`` and ``Fibonacci`` programs.
+- Learned Python ``lists``, ``dictionaries``, and ``functions``.
+- Learned Go ``arrays``, ``slices``, and ``functions``.
 
-## – CLI Tools, Modules, Structs and Error Handling
+## Day 5 – CLI Tools, Modules, Structs and Error Handling
 
 Tasks Completed
 - Built Python CLI TODO tool
@@ -40,7 +40,7 @@ Tasks Completed
 - Implemented error handling in Go
 - Practiced Git branching and repository synchronization
 
-## – Go Functions, Variables, Structs and JSON Basics
+## Day 6 – Go Functions, Variables, Structs and JSON Basics
 
 Tasks Completed
 - Practiced Go programming concepts including fun & var.
@@ -76,24 +76,45 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 - **Python:** Classes vs Objects, Constructors, Method Overriding
 - **Real-world examples:** BankAccount, Employee, E-commerce, Library, Game Systems
 - **Golang:** Structs vs Classes, Composition, Interfaces, Encapsulation
-- **Linux:** Navigation, File Management, grep, chmod, tar, find, Piping & Redirection
+- **Linux:** Navigation, File Management, grep, chmod, tar, find, Piping & 
 
+## Day 11
+
+###  Python
+- Built `Calculator` class with `add()`, `subtract()`, `multiply()`, `divide()`
+- Built `Book` class with `title`, `author`, `pages` attributes
+- Implemented `display_info()` method on Book
+- Practiced creating multiple objects from a single class
+
+###  Golang
+- Built `Calculator` struct with all 4 operations
+- Built `Book` struct with `DisplayInfo()` method
+- Used pointer receivers to modify struct data
+- Implemented error handling for divide by zero
+
+###  Linux
+- `ps aux` — listed all running processes
+- `top` — real-time process monitoring
+- `kill` / `kill -9` — graceful and force kill
+- `df -h` / `du -sh` / `free -h` — disk & memory monitoring
+- `nano` / `vim` — created and edited files in both editors
+- `export` / `echo $PATH` — environment variables
 
 ## Day 12
+## I Learned 
 
-###  Python & Golang
-- Covered all 4 OOP pillars — **Encapsulation**, **Inheritance**, **Polymorphism**
-and **Abstraction** in both Python and Golang. 
-- Built real-world projects like **BankAccount**, **Employee** and **E-commerce**.
-- In Go, learned how **structs**, **interfaces** and embedding replace traditional OOP concepts, with **pointer** and **value receivers** for data manipulation.
+### Python & Golang
+- Covered all 4 OOP pillars — Encapsulation, Inheritance, Polymorphism
+and Abstraction in both Python and Golang. 
+- Built real-world projects like BankAccount, Employee, E-commerce, Library, Hotel, Hospital and Vehicle systems. 
+- In Go, learned how structs, interfaces and embedding replace traditional OOP concepts, with pointer and value receivers for data manipulation.
 
 ### Linux & Git
 - Practiced essential Linux commands for navigation, file management,
-process monitoring and system health checks.
-- Learned to use both **nano** and **vim editors** and manage environment variables. 
+process monitoring and system health checks. 
+- Learned to use both nano and vim editors and manage environment variables. 
 - On the Git side, covered the full workflow from add to push, and
 practiced resolving merge conflicts step by step.
 
 ### Bash Scripting
-- Started Bash scripting from scratch and written first scripts **hello.sh** and **myinfo.sh** successfully.
-
+- I Started Bash scripting from scratch and written first scripts hello.sh and myinfo.sh successfully.
