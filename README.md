@@ -79,7 +79,7 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 - **Linux:** Navigation, File Management, grep, chmod, tar, find, Piping & Redirection
 
 
-## Day 11
+## Day 12
 
 ###  Python & Golang
 - Covered all 4 OOP pillars — **Encapsulation**, **Inheritance**, **Polymorphism**
