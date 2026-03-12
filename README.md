@@ -106,15 +106,15 @@ Focused on strengthening the understanding of Object-Oriented Programming (OOP).
 ### Python & Golang
 - Covered all 4 OOP pillars — Encapsulation, Inheritance, Polymorphism
 and Abstraction in both Python and Golang. 
-- Built ``real-world projects`` like BankAccount, Employee, E-commerce, Library, Hotel, Hospital and Vehicle systems. 
-- In Go, learned how ``structs``, ``interfaces and embedding`` replace traditional OOP concepts, with pointer and ``value receivers`` for data manipulation.
+- Built `real-world projects` like BankAccount, Employee, E-commerce, Library, Hotel, Hospital and Vehicle systems. 
+- In Go, learned how `structs`, `interfaces and embedding` replace traditional OOP concepts, with pointer and `value receivers` for data manipulation.
 
 ### Linux & Git
-- Practiced essential Linux commands for ``navigation``, ``file management``,
+- Practiced essential Linux commands for `navigation`, `file management`,
 process monitoring and system health checks. 
-- Learned to use both ``nano and vim`` editors and manage environment variables. 
-- On the Git side, covered the full workflow from add to ``push``, and
+- Learned to use both `nano and vim` editors and manage environment variables. 
+- On the Git side, covered the full workflow from add to `push`, and
 practiced resolving merge conflicts step by step.
 
 ### Bash Scripting
-- I Started Bash scripting from scratch and written first scripts ``hello.sh`` and myinfo.sh successfully.
+- I Started Bash scripting from scratch and written first scripts `hello.sh` and myinfo.sh successfully.
