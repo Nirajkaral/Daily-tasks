@@ -118,3 +118,19 @@ practiced resolving merge conflicts step by step.
 
 ### Bash Scripting
 - I Started Bash scripting from scratch and written first scripts `hello.sh` and myinfo.sh successfully.
+
+## Day 13 
+Today i learned.
+
+### Docker
+- Learned the difference between `containers and virtual machines` 
+- Installed Docker, ran first container with `hello-world`, `pulled python:3.9 image` and
+practiced docker `ps`, `docker images`, `docker stop` and `docker logs`.
+- Built a custom Dockerfile with `FROM`, `WORKDIR`, `COPY` and `CMD`, built an `image` with docker build and ran it with port mapping using docker `run -p 8080:80`.
+
+### Git & GitHub
+- Created a new branch docker-setup using `git checkout -b`, `committed Docker configuration files` and `pushed the branch` to GitHub successfully.
+
+### Bash Scripting — Topic: Variables & User Input
+- Learned user defined `variables`, system variables like `$USER`, `$HOME` and `$PWD`, and command substitution using `$(command)` syntax.
+-  Practiced taking user input with `read` and `read -p` commands and performed arithmetic operations using `$(( )) syntax`. 
