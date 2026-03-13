@@ -133,4 +133,4 @@ practiced docker `ps`, `docker images`, `docker stop` and `docker logs`.
 
 ### Bash Scripting — Topic: Variables & User Input
 - Learned user defined `variables`, system variables like `$USER`, `$HOME` and `$PWD`, and command substitution using `$(command)` syntax.
--  Practiced taking user input with `read` and `read -p` commands and performed arithmetic operations using `$(( )) syntax`. 
+-  Practiced taking user input with `read` and `read -p` commands and performed arithmetic operations using `$(( )) syntax`.
