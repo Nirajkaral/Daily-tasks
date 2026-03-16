@@ -2,11 +2,9 @@ package main
 
 import "fmt"
 
-
 type Vehicle interface {
 	Start()
 }
-
 
 type Car struct{}
 
@@ -21,7 +19,7 @@ func (b Bike) Start() {
 }
 
 func abs() {
-	
+
 	var v Vehicle
 
 	v = Car{}

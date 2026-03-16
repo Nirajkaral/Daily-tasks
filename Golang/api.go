@@ -9,7 +9,6 @@ type Message struct {
 	Text string `json:"text"`
 }
 
-
 func apiHandler(w http.ResponseWriter, r *http.Request) {
 
 	msg := Message{Text: "Hello from API"}
@@ -17,8 +16,7 @@ func apiHandler(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(msg)
 }
 
-
-func structs() {
+func api() {
 
 	http.HandleFunc("/api", apiHandler)
 

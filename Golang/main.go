@@ -27,7 +27,17 @@ func main() {
 	usecase()
 	medicine()
 	bookstrcut()
+	
+	
 }
+
+
+
+
+
+
+
+
 
 
 
