@@ -20,10 +20,24 @@ func main() {
 	learnjson()
 	encp()
 	calculatorstrcut()
-	bookstrcut()
 	structpointer()
 	interpoly()
 	reciver()
 	ULcases()
 	usecase()
+	medicine()
+	bookstrcut()
+	
+	
 }
+
+
+
+
+
+
+
+
+
+
+

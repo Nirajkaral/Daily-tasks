@@ -1,4 +1,5 @@
-import calculator_module
+import calculator
 
-print("Addition:", calculator_module.add(5,3))
-print("Subtraction:", calculator_module.subtract(10,4))
+calc = calculator.Calculator()
+print("Addition:", calc.add(5,3))
+print("Subtraction:", calc.subtract(10,4))

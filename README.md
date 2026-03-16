@@ -135,3 +135,60 @@ practiced docker `ps`, `docker images`, `docker stop` and `docker logs`.
 - Learned user defined `variables`, system variables like `$USER`, `$HOME` and `$PWD`, and command substitution using `$(command)` syntax.
 -  Practiced taking user input with `read` and `read -p` commands and performed arithmetic operations using `$(( )) syntax`.
 
+
+## Day 14 
+
+I learned.
+## Docker
+
+- Learned `Docker` builds in layers for better caching.
+- Explored `multi-stage` builds for Python and Go.
+- Go `image size` reduced from 800MB to 10MB.
+- Built images using docker build.
+- Ran containers using docker `run --rm`.
+- Pushed image to Docker Hub using `docker tag` and `docker push`.
+
+## Git & GitHub
+
+- Created docker-setup branch using git `checkout -b`.
+- `Pushed` Docker files to GitHub branch.
+- Opened `Pull Request` on GitHub.
+- `Merged branch` into main successfully.
+- Updated local repo using git `pull`.
+
+## Day 15 
+  I learned.
+
+### Docker
+- Created separate Dockerfiles for Python and Go projects.
+- Python Dockerfile used `python:3.9-slim` for smaller image size.
+- Go Dockerfile used multi-stage build reducing size to 10MB
+- Built Python image using `docker build -t py-app -f Dockerfile.python .`
+- Built Go image using `docker build -t go-app -f Dockerfile.go .`
+- Ran both containers using `docker run --rm` and verified output
+
+### Python
+
+- Added `docstrings` to all classes and methods.
+- Built `Library Management System`. 
+- Library class with `add`, `search`, `borrow` and `return` functionality.
+
+
+###  Golang
+
+- Applied consistent `exported`(Pub) and `unexported`(pri) naming conventions.
+- Added proper error return values throughout.
+- Built same `Library Management System` in Go.
+
+
+###  Git & GitHub
+- Committed Docker files and pushed to GitHub.
+- Created version tag `v1.0` using `git tag`.
+- Verified all commits using `git log --oneline`
+- Organised repo into `python/`, `go/` and `docker/` etc.
+
+
+
+
+
+

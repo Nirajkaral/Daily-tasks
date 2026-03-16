@@ -7,7 +7,7 @@ type Student1 struct {
 	age  int
 }
 
-func mainFmt() {
+func structs() {
 
 	s1 := Student1{name: "Niraj", age: 22}
 

@@ -1,4 +1,10 @@
-file = open("log.txt", "r")
+import os
+
+# Get the directory where the script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+log_file_path = os.path.join(script_dir, "log.txt")
+
+file = open(log_file_path, "r")
 
 error_count = 0
 

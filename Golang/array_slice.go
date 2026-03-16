@@ -4,7 +4,7 @@ import "fmt"
 
 func array_slice() {
 
-	// Array
+	
 	numbers := [4]int{10, 20, 30, 40}
 
 	fmt.Println("Array values:")
@@ -12,7 +12,7 @@ func array_slice() {
 		fmt.Println(numbers[i])
 	}
 
-	// Slice
+	
 	slice := []int{1, 2, 3, 4, 5}
 
 	fmt.Println("Slice values:")

@@ -32,12 +32,13 @@ class Cat(Animal):
 
 
 
-dog = Dog("Buddy")
-cat = Cat("Whiskers")
+if __name__ == "__main__":
+    dog = Dog("Buddy")
+    cat = Cat("Whiskers")
 
-print(dog.speak())    
-print(cat.speak())     
-dog.eat()             
-cat.sleep()            
-dog.fetch()            
-cat.purr()             
+    print(dog.speak())    
+    print(cat.speak())     
+    dog.eat()             
+    cat.sleep()            
+    dog.fetch()            
+    cat.purr()             
