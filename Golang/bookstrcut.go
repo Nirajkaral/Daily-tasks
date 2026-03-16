@@ -3,13 +3,36 @@ package main
 import "fmt"
 
 type Book struct {
-    Title  string
-    Author string
-    Pages  int
+	Title  string
+	Author string
+	Pages  int
+}
+
+
+func (b *Book) Borrow() bool {
+	panic("unimplemented")
+}
+
+
+func (b *Book) IsAvailable() bool {
+	panic("unimplemented")
+}
+
+
+func (b *Book) ItemType() string {
+	panic("unimplemented")
+}
+
+func (b *Book) ReturnItem() {
+	panic("unimplemented")
+}
+
+func (b *Book) Borrowed() {
+	panic("unimplemented")
 }
 
 func (b Book) DisplayInfo() {
-    fmt.Printf(`
+	fmt.Printf(`
    Book Details:
    Title   : %s
    Author  : %s
@@ -18,13 +41,12 @@ func (b Book) DisplayInfo() {
 }
 
 func bookstrcut() {
-    
-    b1 := Book{Title: "Python Crash Course", Author: "Eric Matthes", Pages: 560}
-    b2 := Book{Title: "The Go Programming Language", Author: "Alan Donovan", Pages: 380}
-    b3 := Book{Title: "Clean Code", Author: "Robert Martin", Pages: 431}
 
- 
-    b1.DisplayInfo()
-    b2.DisplayInfo()
-    b3.DisplayInfo()
+	b1 := Book{Title: "Python Crash Course", Author: "Eric Matthes", Pages: 560}
+	b2 := Book{Title: "The Go Programming Language", Author: "Alan Donovan", Pages: 380}
+	b3 := Book{Title: "Clean Code", Author: "Robert Martin", Pages: 431}
+
+	b1.DisplayInfo()
+	b2.DisplayInfo()
+	b3.DisplayInfo()
 }
